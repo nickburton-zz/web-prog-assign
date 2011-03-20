@@ -1,0 +1,110 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" 
+  xml:lang="en" lang="en">
+
+<head>
+
+ <title>rmitlibs | Register</title>
+
+ <meta name="description" content="Student register for the RMIT Library Management System."/>
+ <meta name="keywords" content="register, books, library, borrow books, library books, library staff, university booklist"/>
+
+ <link type="text/css" rel="stylesheet" href="style.css" />
+
+</head> 
+
+<body>
+
+  <div class="navbarl">
+
+  <a href="home.php">Home</a>
+   | <strong>Register</strong>
+
+ </div>
+ 
+ <div>
+  <br/>
+ </div>
+
+<hr/>
+
+  <div class="register">
+   <img src="logo.jpg" alt="rmitlibs" />
+       <p>To sign up for the Library Management Sytem, we just need a few details.</p>
+       <h5 class="center">First, we need your name.. and stuff.</h5>
+       
+  </div>
+   <table class="bigreg">
+      <tr>
+       <td>
+   
+   	<form action="complete.php" method="post">
+	 
+	<div class="right">
+          First Name: <input type="text" maxlength="50" name="fname" size="25" value=""/><br/><br/>
+          Last Name: <input type="text" maxlength="50" name="lname" size="25" value=""/><br/><br/>
+          Username: <input type="text" maxlength="8" name="uname" size="15" value=""/><br/><br/>
+	  	  Password: <input type="password" maxlength="10" name="pword" size="15" value=""/><br/><br/>
+  	 </div>
+	   </td>
+       </tr>
+     </table>
+     
+      <table class="bigreg">
+      <tr>
+       <td>
+        <div class="right">
+	
+	Student Number: 
+ 	<input type="text" name="snumber" maxlength="7" size="10" value=""/><br/>	  
+	<br/>
+	RMIT Email:
+	<input type="text" name="email" maxlength="80" size="30" value=""/><br/>
+	<br/>
+    RMIT Program:
+	<input type="text" name="program" maxlength="80" size="40" value=""/><br/>
+    <br/>
+	Program End: 
+    <input type="text" name="program_end" maxlength="4" size="4" value=""/><br/>
+        <br/>
+	     </div>
+       </td>
+       
+      </tr>
+     </table>
+     
+     <table class="bigreg">
+      <tr>
+       <td>
+      <div class="right">
+
+	Birthday:
+    <input type="text" name="birth_date" maxlength="2" size="2" value=""/>
+    <input type="text" name="birth_month" maxlength="2" size="2" value=""/>
+    <input type="text" name="birth_year" maxlength="4" size="4" value=""/>
+	<br/>
+	<br/>
+ 	Telephone Number:
+	<input type="text" name="telephone" maxlength="10" size="24" value=""/><br/>  
+	<br/>
+	Address: 
+	<input type="text" name="address" maxlength="80" size="40" value=""/><br/>
+    <br/>
+	Suburb:
+	<input type="text" name="suburb" maxlength="15" size="15" value=""/>
+	State:
+	<input type="text" name="state" maxlength="3" size="3" value=""/>
+	Post Code:
+	<input type="text" name="pcode" maxlength="4" size="4" value=""/><br/>
+	<br/>
+            <input type="submit" value="Finish" />   
+           </div>
+        </form>
+       </td>
+      </tr>
+     </table>
+
+</body>
+</html>

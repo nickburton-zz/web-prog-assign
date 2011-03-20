@@ -1,0 +1,8 @@
+nick|pass|Nick|Burton|3206510|nick.burton@rmit.edu.au|MasterofEverything|2010|16051982|0412105324|3CameronSt|Richmond|VIC|3121|Student|Unblocked
+ryan|pass|Ryan|Mullins|3220981|ryan.mullins@rmit.edu.au|MasterofComputerScience|2010|16051982|0412105324|3CameronSt|Richmond|VIC|3121|Student|Unblocked
+jess|pass|Jess|Tassell|3218659|jess.tassell@rmit.edu.au|MasterofComputerScience|2010|16051982|0412105324|3CameronSt|Richmond|VIC|3121|Student|Unblocked|
+tom|pass|Tom|Burton|6239876|tom.burton@rmit.edu.au|MasterofComputerScience|2010|16051982|0412105324|3CameronSt|Richmond|VIC|3121|Staff|Unblocked|
+charles|pass|Charles|Thomas|111111|charles.thomas@rmit.edu.au|MastersofEducation|2015|1681980|0438558500|26FireStreet|Brunswick|NSW|2002|Student|Unblocked|
+mwatts|pass|Michael|Watts|4120823|michael.watts@rmit.edu.au|BachelorofLaw|2020|24061982|0438558500|38WeighbridgeAvenue|SurreyHills|VIC|3102|Student|Unblocked|
+m_burton|pass|Margie|Burton|2222222|margie.burton@rmit.edu.au|MasterofEventManagement|2012|25051959|0412105383|3CameronSt|Rich|VIC|3121|Student|Unblocked|
+nick|pass|Nick|Burton|3206510|nick.burton@rmit.edu.au|MasterofEverything|2010|16051982|0412105324|3CameronSt|Richmond|VIC|3121|Student|Unblocked

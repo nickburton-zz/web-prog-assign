@@ -1,0 +1,132 @@
+<style type="text/css">
+   	
+	
+	.style dummy{}
+
+	div.navbarl 	{	font-family: arial, "sans serif";
+				font-size: small;
+				float: left;
+				width: 150px;
+}
+	div.navbarr 	{	font-family: arial, "sans serif";
+				font-size: small;
+				float: right;
+				width: 150px;
+}	
+	div.loginnav 	{	font-family: arial, "sans serif";
+				font-size: small;
+				float: right;
+				width: 70px;
+}			
+	hr 		{	color: #D3D3D3;
+				height: 1px;
+				border: none;
+				background: #D3D3D3;
+}
+	div.search 	{	font-family: arial, "sans serif";
+				font-size: small;
+				text-align: center;
+				margin: 75px 0px 0px 0px;
+}
+	div.homesign	{	font-family: arial, "sans serif";
+				font-size: small;
+				text-align: left;
+}
+	div.homemid	{	font-family: arial, "sans serif";
+				font-size: small;
+				text-align: center;
+}
+	div.home 	{	font-family: arial, "sans serif";
+				font-size: small;
+				text-align: center;
+				margin: 75px 0px 0px 0px;
+}	
+	div.register 	{	font-family: arial, "sans serif";
+				font-size: small;
+				text-align: center;
+				margin: 75px 0px 0px 0px;
+}
+	div.signin	{	font-family: arial, "sans serif";
+				font-size: x-small;
+}
+	div.right 	{	font-family: arial, "sans serif";
+				font-size: small;
+				text-align: right;
+}
+	p		{	font-family: arial, "sans serif";
+				font-size: small;
+}
+	p.grey	{	color: #D3D3D3;
+}
+	p.green	{	color:#CCFFFF;
+}	
+	h1,h2,h3,h4,h5	{	font-family: arial, "sans serif";
+}
+	h5.center	{	font-size: small;
+				text-align: center;
+}
+	a:link		{	color: #0000FF;
+}	
+	a:visited	{	color: #0000FF;
+}
+	a:hover 	{	color: #B22222;
+}
+	a img 		{    	border: none;
+}
+	table.home	{	margin-left: auto;
+				margin-right: auto;
+				width: 400px;
+}
+	table.register	{	margin-left:auto;
+				margin-right:auto;
+				width: 320px;
+}
+	table.bigreg	{	margin-left:auto;
+						margin-right:auto;
+						width: 400px;
+}	
+	table.borrow	{	width: 600px;
+}
+	table.students	{	width: 350px;
+}
+	table.loans	{	width: 600px;
+}
+	div.results	{	font-family: arial, "sans serif";
+				background: #F5DEB3;
+				border-top: 1px solid #D3D3D3;
+				height: 20px;				
+}
+.content,.shadow 
+{
+position: relative;
+bottom: 3px;
+right: 3px;
+top: 3px;
+}	
+	.shadow 	{ 	background-color: #ccc; 
+					width: 60px;
+}
+	.content 	{	background-color: #fff;
+  				color: #000;
+  				border: 1px solid #000;
+  				padding: 0.2em;   
+				width: 52px;
+}
+.content1,.shadow1 
+{
+position: relative;
+bottom: 3px;
+right: 3px;
+top: 3px;
+}	
+	.shadow1 	{ 	background-color: #ccc; 
+					width: 70px;
+}
+	.content1 	{	background-color: #fff;
+  				color: #000;
+  				border: 1px solid #000;
+  				padding: 0.2em;   
+}
+
+
+</style>
